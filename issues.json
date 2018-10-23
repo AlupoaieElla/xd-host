@@ -1,0 +1,18 @@
+[{
+"image": "HE/fb.png",
+"issue": "The mandatory fields should have '*' next to the label instead inside the input",
+"recommendation": "Put * next to all mandatory fields",
+"failed" : "Recognize rather than recall",
+"severity": 3,
+"priority": 1,
+"effort": "0.2 SP"
+},
+{
+"image": "HE/fb.png",
+"issue": "teeeeeeeeeeeeeest",
+"recommendation": "Put * next to all mandatory fields",
+"failed" : "Recognize rather than recall",
+"severity": 1,
+"priority": 3,
+"effort": "0.2 SP"
+}]
